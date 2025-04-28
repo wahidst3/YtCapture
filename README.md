@@ -1,6 +1,4 @@
-Here’s a sample `README.md` description for your transcription project. You can modify it as per your needs.
 
----
 
 # YouTube Audio Transcriber
 
